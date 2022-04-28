@@ -6,7 +6,7 @@ date: "`r format(Sys.time(), '27 April 2022')`"
 output:
   pdf_document: default
   bookdown::pdf_document2: default
-thanks: 'Code and data supporting this analysis is available at: https://github.com/zzzhiyiliu/Final_paper.git'
+thanks: 'Code and data supporting this analysis is available at: https://github.com/zzzhiyiliu/PGA_Scores.git'
 abstract: Golf is about getting the ball into 18 holes with the least strokes. Players play competitively in world wide competitions such as the PGA tournament. The paper conducts linear regression model on PGA players' performances in each game to explore the factors that impact their scores. Knowing the relationships between strokes and distance, average putts and many more key performance metrics in golf is important for professional players to predict and improve. Keywords:Sports, Golf, PGA, Golf strokes
 toc: no
 bibliography: referencesg.bib
